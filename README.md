@@ -3,7 +3,7 @@ My group and I built a Playlist Generating App, which primarily creates playlist
 
 For example if you wanted to get a single track with the following filters, it would look like this: 
 
-![image](SpotifyAPIGetPlaylists/GenerateView-JavaProject.png)
+![image](SpotifyAPIGetPlaylists/SampleInput.png)
 
 ![image](SpotifyAPIGetPlaylists/SampleOutput)
 
