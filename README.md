@@ -5,7 +5,7 @@ For example if you wanted to get a single track with the following filters, it w
 
 ![image](SpotifyAPIGetPlaylists/GenerateView-JavaProject.png)
 
-![image]([SpotifyAPIGetPlaylists/Screenshot 2023-12-05 133250.png](https://github.com/Nick-Pestov/Spotify-Playlist-Generating-App/blob/1ac4dbd6df90764d48480fd66b17bb8daac6a3e1/SpotifyAPIGetPlaylists/Screenshot%202023-12-05%20133250.png))
+![image](SpotifyAPIGetPlaylists/SampleOutput)
 
 The first will be to rank how "underground" your music taste is, based on a user's data from various music streaming platforms. The algorithm design is still TBD, but one metric we could use is the number of views a song has or followers of an artist. 
 
