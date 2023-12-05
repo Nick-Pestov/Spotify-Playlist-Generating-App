@@ -1,6 +1,7 @@
 # group-project
-Our group will be attempting to build a website for various music features similar to Spotify's Wrapped, that will be accessed from various music streaming APIs. 
+My group and I built a Playlist Generating App, which primarily creates playlists based on a users input from pre-existing buttons. 
 
+For example
 The first will be to rank how "underground" your music taste is, based on a user's data from various music streaming platforms. The algorithm design is still TBD, but one metric we could use is the number of views a song has or followers of an artist. 
 
 The second idea will be to create a playlist based on a prompt a user inputs. For example a playlist of all the biggest classic rock songs, or even some lesser known ones. This will be achieved by accessing the tags associated with a song in Spotify's API. 
