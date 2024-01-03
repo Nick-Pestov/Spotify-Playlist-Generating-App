@@ -1,6 +1,8 @@
 # group-project
 My group and I built a Playlist Generating App, which primarily creates playlists based on a users input from pre-existing buttons. 
 
+See our presentation for more information: https://docs.google.com/presentation/d/1pBjLJTrQPYfTkW1AhUy87dEwT5gQVG1V8piGybNC4Ag/edit#slide=id.g262bf0d1203_0_1746
+
 For example if you wanted to get a single track with the following filters, it would look like this: 
 
 ![image](SpotifyAPIGetPlaylists/SampleInput.png)
